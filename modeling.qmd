@@ -1,0 +1,18 @@
+---
+title: "Modeling"
+---
+
+<!-- TODO: Your tidymodels pipeline, following the class blueprint:
+     split with a seed, recipes of increasing size, model specifications,
+     workflows, predictions on the test set, and the metrics comparison
+     table. Interpret as you go: a metrics table without sentences is not
+     an analysis. -->
+
+```{r}
+#| label: setup
+#| message: false
+#| eval: false
+# Change eval to true once tidyverse (and tidymodels) are installed. See the setup guide.
+library(tidyverse)
+library(tidymodels)
+```

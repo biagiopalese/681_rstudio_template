@@ -1,0 +1,7 @@
+---
+title: "Conclusions"
+---
+
+<!-- TODO: Answer your business question, with numbers from your results.
+     What would you tell the decision maker? What are the limits of your
+     analysis? What would you do next with more time or data? -->

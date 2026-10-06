@@ -1,0 +1,20 @@
+---
+title: "Exploration"
+---
+
+<!-- TODO: Explore. Every chart gets an action title (the takeaway, not the
+     variable names) and a so-what sentence underneath. -->
+
+```{r}
+#| label: setup
+#| message: false
+#| eval: false
+# Change eval to true once tidyverse (and tidymodels) are installed. See the setup guide.
+library(tidyverse)
+```
+
+## What drives my target?
+
+<!-- Distribution of your target variable first. Then the relationships
+     that matter: grouped summaries and charts. End the page with what the
+     exploration taught you about the business question. -->

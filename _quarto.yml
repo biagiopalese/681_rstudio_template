@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "My Portfolio Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: data.qmd
+        text: Data
+      - href: eda.qmd
+        text: Exploration
+      - href: modeling.qmd
+        text: Modeling
+      - href: conclusions.qmd
+        text: Conclusions
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    code-fold: true
+    code-tools: true

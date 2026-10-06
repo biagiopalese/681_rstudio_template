@@ -1,0 +1,21 @@
+---
+title: "Home"
+---
+
+<!-- TODO: Replace everything on this page with your own content. -->
+
+## My business question
+
+<!-- One sentence. The single question your whole analysis answers.
+     Example shape: "How well do calendar, weather and promotions explain
+     daily item sales at my restaurant?" -->
+
+## Why this matters
+
+<!-- Two or three sentences: who cares about the answer, and what decision
+     it would inform. -->
+
+## About me
+
+<!-- One short paragraph. This site is part of your portfolio: say who you
+     are and link your GitHub profile. -->

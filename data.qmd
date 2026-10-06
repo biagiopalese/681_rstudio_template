@@ -1,0 +1,26 @@
+---
+title: "Data"
+---
+
+<!-- TODO: Describe your dataset and document your cleaning decisions. -->
+
+## The dataset
+
+<!-- Where it comes from, what one row represents, dimensions BEFORE and
+     AFTER cleaning (executed, not typed by hand), and a short data
+     dictionary of the columns you actually use. -->
+
+## Data problems found and fixed
+
+<!-- This is the heart of Milestone 1. For every problem: how you found it
+     (show the code), how many rows it affects (executed), what you did
+     about it, and why that fix is defensible. -->
+
+```{r}
+#| label: setup
+#| message: false
+#| eval: false
+# Change eval to true once tidyverse (and tidymodels) are installed. See the setup guide.
+library(tidyverse)
+# your_data <- read_csv("data/your_file.csv")
+```
