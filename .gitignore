@@ -1,0 +1,13 @@
+# Data files never go in the repository
+data/
+*.csv
+*.xlsx
+
+# Quarto render output (Netlify builds from the pushed _site if you render
+# locally; keep _site tracked ONLY if that is your publish flow)
+/.quarto/
+
+# R clutter
+.Rproj.user/
+.Rhistory
+.RData
